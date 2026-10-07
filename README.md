@@ -219,7 +219,7 @@ Saves a contact form submission.
    - Clicking **“Add”** → `PUT /cart/:product_id` with `{ item, increment }`
    - Clicking **“Remove”** → `DELETE /cart/:product_id` (removes item from cart when quantity hits 0)
 
-5. ### 💳 Payment & Order Summary Flow
+5. ### Payment & Order Summary Flow
 
 1. **Frontend collects order data** (e.g., customer name, email, cart items).
 2. On submission, it sends a `POST` request to the backend:
