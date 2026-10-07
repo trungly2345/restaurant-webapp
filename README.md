@@ -63,7 +63,7 @@ Deletes a dessert by its MongoDB `_id`.
 
 ---
 
-## 🍺 Alcohol
+## Alcohol
 
 **GET** `/alcohol`  
 Returns all alcohol items.
