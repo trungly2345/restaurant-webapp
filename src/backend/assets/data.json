@@ -1,0 +1,151 @@
+{
+    "drinks": [
+      {
+        "product_id": 5,
+        "product_name": "Che Thai",
+        "description": "Refreshing Vietnamese dessert with tropical fruits, jellies, and coconut milk, served chilled with ice.",
+        "price": 2.99,
+        "image": "https://www.cooking-therapy.com/wp-content/uploads/2023/07/Che-Thai-15.jpg"
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sinh Tố Bơ",
+        "description": "A creamy Vietnamese avocado smoothie sweetened with condensed milk for a rich, indulgent flavor.",
+        "price": 4.99,
+        "image": "https://insearchofyummyness.com/wp-content/uploads/2013/06/Avocado-Shake-Sinh-to-Bo.jpg"
+      },
+      {
+        "product_id": 7,
+        "product_name": "Thai Iced Tea",
+        "description": "A rich, creamy Thai iced tea brewed from red tea leaves and blended with milk powder, served chilled over ice.",
+        "price": 1.99,
+        "image": "https://img.freepik.com/free-photo/traditional-iced-milk-tea-red-tea-powder_1150-26447.jpg"
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sinh Tố Dâu",
+        "description": "Vietnamese Style Smoothie made with fresh strawberries, bananas, and sweetened condensed milk.",
+        "price": 3.99,
+        "image": "https://images.pexels.com/photos/8805099/pexels-photo-8805099.jpeg"
+      }
+    ],
+    "products": [
+      {
+        "product_id": 1,
+        "product_name": "Pho",
+        "description": "Vietnamese noodle soup with beef, herbs, and rice noodles.",
+        "price": 14.99,
+        "image": "https://images.pexels.com/photos/6646022/pexels-photo-6646022.jpeg"
+      },
+      {
+        "product_id": 2,
+        "product_name": "Larb",
+        "description": "Lao minced meat salad with fresh herbs and spices.",
+        "price": 10.99,
+        "image": "https://hot-thai-kitchen.com/wp-content/uploads/2023/08/laab-moo.jpg"
+      },
+      {
+        "product_id": 3,
+        "product_name": "Banh Mi",
+        "description": "Crispy baguette filled with meats, pickled vegetables, and fresh herbs.",
+        "price": 8.99,
+        "image": "https://images.pexels.com/photos/14226657/pexels-photo-14226657.jpeg"
+      },
+      {
+        "product_id": 4,
+        "product_name": "Mango Sticky Rice",
+        "description": "Sweet coconut-infused sticky rice with fresh mango.",
+        "price": 7.99,
+        "image": "https://scientificallysweet.com/wp-content/uploads/2016/01/IMG_0092-mango-sticky-rice-feature2-500x500.jpg"
+      }
+    ],
+    "alcohol": [
+      {
+        "product_id": 9,
+        "product_name": "Tiger Beer",
+        "description": "Singaporean lager beer brewed with malted barley, hops, and yeast, known for its crisp, refreshing taste.",
+        "price": 2.99,
+        "image": "https://images.unsplash.com/photo-1633785586918-aecf1088218d"
+      },
+      {
+        "product_id": 10,
+        "product_name": "Ly-Chee Martini",
+        "description": "Martini cocktail made with vodka, lychee liqueur and juice, served with ice and garnished with a lychee fruit.",
+        "price": 6.99,
+        "image": "https://ellegourmet.ca/wp-content/uploads/2024/02/rose-lychee-martini.png"
+      },
+      {
+        "product_id": 11,
+        "product_name": "Lemongrass Mojito",
+        "description": "Thai inspired Mojito cocktail made with rum, fresh mint, lemongrass, and lime juice.",
+        "price": 7.99,
+        "image": "https://anerdcooks.com/wp-content/uploads/2016/08/lemongrass_thai_basil_mojito6.jpg"
+      },
+      {
+        "product_id": 12,
+        "product_name": "Pegu Club",
+        "description": "Classic gin cocktail made with gin, orange curaçao, lime juice, and bitters, served chilled with ice.",
+        "price": 8.99,
+        "image": "https://imbibemagazine.com/wp-content/uploads/2023/02/anatomy-pegu-club-crdt-john-valls.jpg"
+      }
+    ],
+    "desserts": [
+      {
+        "product_id": 13,
+        "product_name": "Halo-Halo",
+        "description": "Filipino dessert made with shaved ice, sweetened beans, fruits, and jellies, topped with ice cream and leche flan.",
+        "price": 5.99,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/halo-halo3-1663672464.jpg"
+      },
+      {
+        "product_id": 14,
+        "product_name": "Bánh Trôi",
+        "description": "Sticky Rice dumply filled with mung bean paste, served with sweet ginger syrup sprinkled with sesame seeds.",
+        "price": 2.99,
+        "image": "https://www.willflyforfood.net/wp-content/uploads/2022/10/vietnamese-desserts-banh-troi.jpg.webp"
+      },
+      {
+        "product_id": 15,
+        "product_name": "Bánh Bòng Lan",
+        "description": "Fluffy sponge cake with strawberries, lighter than the American version. Whipped cream available on request.",
+        "price": 3.99,
+        "image": "https://i0.wp.com/simplevietnamesefood.com/wp-content/uploads/2024/04/IMG_0197-sponge-cake-with-strawberries.jpg"
+      },
+      {
+        "product_id": 16,
+        "product_name": "Corn Pudding",
+        "description": "Filipino dessert made with sweetened corn and coconut milk, served chilled.",
+        "price": 2.99,
+        "image": "https://i0.wp.com/simplevietnamesefood.com/wp-content/uploads/2023/10/IMG_9431-bowl-of-corn-pudding-dessert-with-coconut-milk.jpg"
+      },
+      {
+        "product_id": 17,
+        "product_name": "Sesame Balls",
+        "description": "Golden deep-fried sesame balls filled with sweet mung bean paste.",
+        "price": 1.99,
+        "image": "https://i0.wp.com/simplevietnamesefood.com/wp-content/uploads/2022/05/IMG_3638-Homemade-sesame-balls-.jpg"
+      },
+      {
+        "product_id": 18,
+        "product_name": "Moon Cake",
+        "description": "Traditional moon cake with mung bean paste, salted egg yolk, and lotus seed paste.",
+        "price": 1.99,
+        "image": "https://www.willflyforfood.net/wp-content/uploads/2022/10/vietnamese-desserts-banh-trung-thu.jpg.webp"
+      },
+      {
+        "product_id": 19,
+        "product_name": "Coffee Ice Cream",
+        "description": "Rich Vietnamese coffee ice cream with condensed milk.",
+        "price": 5.99,
+        "image": "https://images.food52.com/ruHoVEGX9fyqUUnDYbsN3xVrRSQ=/1200x1200/5c023c05-4c3f-4ae3-a13c-8a59833a2a43--Vietnamese_cookbook_papaya_salad_188a_660x1024-.jpg"
+      },
+      {
+        "product_id": 20,
+        "product_name": "Dragon Fruit Sago",
+        "description": "Pudding made with dragon fruit, sago pearls, and coconut milk, served chilled.",
+        "price": 8.99,
+        "image": "https://www.cookwithkushi.com/wp-content/uploads/2024/09/sabudana_sago_dragon_fruit_tapioca.jpg"
+      }
+    ]
+  }
+  
